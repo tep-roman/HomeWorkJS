@@ -8,15 +8,15 @@
  */
 
 let inputNumber = prompt("Введите число от 0 до 999");
-let arrNumber = inputNumber.split("");
-let arrNumberNew = arrNumber.reverse();
-let objNumber  = {
-    "единицы": +arrNumberNew[0],
-    "десятки": +arrNumberNew[1],
-    "сотни": +arrNumberNew[2]
-};
 
 function numToObj() {
+    let arrNumber = inputNumber.split("");
+    let arrNumberNew = arrNumber.reverse();
+    let objNumber  = {
+        "единицы": +arrNumberNew[0],
+        "десятки": +arrNumberNew[1],
+        "сотни": +arrNumberNew[2]
+    };
     if (arrNumberNew.length == 3) {
         return objNumber;
     } else if (arrNumberNew.length == 2) {
@@ -30,5 +30,6 @@ function numToObj() {
 }
 
 while (inputNumber.length > 3 || inputNumber == ("")) {
+    console.log("Введено слишком большое число, попробуйте еще раз:");
     inputNumber = prompt("Введите число от 0 до 999");
 } console.log(numToObj());
