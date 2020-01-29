@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4287fea8-6348-4322-ab61-206f182b8e34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson3/cart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/for.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/piramida.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/while.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +65,10 @@
       <workItem from="1579642692433" duration="2631000" />
       <workItem from="1579680594240" duration="13914000" />
       <workItem from="1579895435641" duration="8304000" />
-      <workItem from="1579931575785" duration="2616000" />
+      <workItem from="1579931575785" duration="3218000" />
+      <workItem from="1580222329241" duration="11900000" />
+      <workItem from="1580247639510" duration="12521000" />
+      <workItem from="1580300147907" duration="75000" />
     </task>
     <servers />
   </component>
@@ -82,5 +80,9 @@
       <screen x="1920" y="-111" width="1401" height="853" />
     </state>
     <state x="2129" y="11" key="SettingsEditor/0.0.1854.1080/4480.-123.1280.680/1920.-111.1401.853@1920.-111.1401.853" timestamp="1579262424305" />
+    <state x="127" y="252" key="run.anything.popup" timestamp="1580258000556">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="127" y="252" key="run.anything.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1580258000556" />
   </component>
 </project>
